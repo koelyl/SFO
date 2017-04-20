@@ -8,6 +8,8 @@
 
 ### Install the requirements
 * Install the requirements using `pip install -r requirements.txt`
+  * This project uses Python 2.7
+  * You may want to use a virtual environment for this. 
 
 ## Usage
 
