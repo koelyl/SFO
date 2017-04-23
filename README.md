@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SFO
 =======
 # SFO Airport Survey
@@ -17,4 +17,4 @@
 ## Usage
 
 ## Extending this
->>>>>>> d42e4ba35e58db80f8fa75fa545e8317dae9e28a
+
