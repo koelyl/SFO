@@ -9,7 +9,7 @@ CAT_COLS = ['Trav_Boarding_area', 'Trav_Airline', 'Trav_Destination', 'Trav_Dest
                            'Trav_Travel_purpose', 'Has_checked_baggage', 'Shopped_stores', 'Shopped_restaurant',
                            'Trav_Times_flownSFO', 'Trav_Is_first_SFO', 'Trav_yearsUsed_group', 'Used_TSA_Precheck',
                            'Trav_County_of_origin', 'Encountered_problems', 'Trav_How_local','Trav_City', 
-                           'Trav_Country', 'Trav_with_pet', 'Trav_age_group', 'Trav_gender', 'Is_Frequent_flyer', 'Used_free_wifi,
+                           'Trav_Country', 'Trav_with_pet', 'Trav_age_group', 'Trav_gender', 'Is_Frequent_flyer', 'Used_free_wifi',
                            'Used_SJC','Used_OAK']
 
 
