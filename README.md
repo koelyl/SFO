@@ -9,7 +9,10 @@ Surveys can impart insights into how people think and behave--a topic that's of 
 
 We begin by loading, cleaning and transforming the data. Next we'll explore using visualizations and descriptive statistics, and finish with analysis and interpretation. This iterative process tends to yield many interesting analysis topics which, for the sake of limiting scope, are included under future research. I encourage the curious and enterprising reader to fork this repository and explore these and other thought-provoking questions in this dataset. 
 
-## Installation
+## Browser View Option (no download required)
+* Simply scroll up to the list of files above this README and click on "SFO Analysis.ipynb". You should be redirected to a new page, where the notebook will load shortly. 
+
+## Installation Option (for developers) 
 
 ### Downloading data (in progress)
 * Clone this repo to your computer.
